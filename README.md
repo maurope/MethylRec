@@ -1,4 +1,4 @@
-## Methylomes for Recombination Prediction
+## MethylRec: Methylomes for Recombination Prediction
 
 ## Predicting Cross Recombination Using Methylation Data.
 
