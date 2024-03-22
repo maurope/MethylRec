@@ -7,4 +7,4 @@ This is a Python3 implementation to predict recombination rates in plant species
 Jupyter notebooks contain the code to train the model and make predictions.
 
 ## Publications
-Peñuela, M. Finke, J. Rocha, C. 2024. Methylomes as key features for predicting recombination in some plant species. Plant Molecular Biology.
+[Peñuela, M., Finke, J. & Rocha, C. Methylomes as key features for predicting recombination in some plant species. Plant Mol Biol 114, 25 (2024).](https://link.springer.com/article/10.1007/s11103-023-01396-8)
